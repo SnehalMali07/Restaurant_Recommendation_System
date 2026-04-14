@@ -65,5 +65,9 @@ Open your browser at: **http://127.0.0.1:5000**
 ## Dataset
 
 The dataset used for this project is available at the link below:
-
 https://drive.google.com/drive/folders/1JciSEUE87frDawF-mNm40uRn5dIcIyZ9?usp=sharing
+
+## Project Demo
+
+Demo Video Link:
+https://drive.google.com/file/d/15AGAENM_1TN86fKbddYsu2FwsHlqH6S7/view?usp=sharing
