@@ -61,3 +61,9 @@ python app1.py
 Open your browser at: **http://127.0.0.1:5000**
 
 ---
+
+## Dataset
+
+The dataset used for this project is available at the link below:
+
+https://drive.google.com/drive/folders/1JciSEUE87frDawF-mNm40uRn5dIcIyZ9?usp=sharing
